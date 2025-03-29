@@ -33,7 +33,5 @@ This project highlights a scalable and modular approach to attendance management
 -   **Microservices**: `Auth Service` `Student Service` `Hod Service` `Techer Service` `Admin Service`
 -   **Collaboration**: This project was developed collaboratively, showcasing effective teamwork and project management.
 
-
-
 <br>
 

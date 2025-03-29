@@ -10,11 +10,11 @@
 
 ##### Find me on:
 
-<a href="https://github.com/deevanshu-k" target="blank"><img align="center" src="./icons/github.svg" alt="saikat_07" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/deevanshukushwah" target="blank"><img align="center" src="./icons/linkedin.svg" alt="deevanshu-kushwah-624214253" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.deevanshu26" target="blank"><img align="center" src="./icons/instagram.svg" alt="thehonestlier" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/deevanshukushwah80/" target="blank"><img align="center" src="./icons/leetcode.svg" alt="saikat_07" height="30" width="40" /></a>
-<a href="mailto:deevanshukushwah80@gmail.com" target="blank"><img align="center" src="./icons/mail.svg" alt="saikat_07" height="30" width="40" /></a>
+<a href="https://github.com/sarim1703" target="blank"><img align="center" src="./icons/github.svg" alt="saikat_07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-rahman-a26613268" target="blank"><img align="center" src="./icons/linkedin.svg" alt="deevanshu-kushwah-624214253" height="30" width="40" /></a>
+<a href="https://instagram.com/a_rahman1703/" target="blank"><img align="center" src="./icons/instagram.svg" alt="thehonestlier" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Sarim_177403/" target="blank"><img align="center" src="./icons/leetcode.svg" alt="saikat_07" height="30" width="40" /></a>
+<a href="mailto:arahman.champ@gmail.com" target="blank"><img align="center" src="./icons/mail.svg" alt="saikat_07" height="30" width="40" /></a>
 
 <br>
 

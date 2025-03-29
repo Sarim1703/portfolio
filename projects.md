@@ -19,7 +19,7 @@ This project showcases a robust and user-friendly solution for the real estate m
 -   **Payment Gateway**: `Razorpay`
 -   **Architecture**: `Monolithic`
 -   **Collaboration**: This project was developed collaboratively, showcasing effective teamwork and project management.I managed the project and handled the backend development.
-[Backend](https://github.com/Sarim1703/real-state-listing-website), 
+[Backend](https://github.com/Sarim1703/real-state-listing-website)
 
 #### [College Attendance Management System](https://github.com/deevanshu-k/student_attendance_management_system)
 

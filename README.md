@@ -1,5 +1,5 @@
 <div style="display:flex;align-items:start;">
-<img src="./images/profile_image.png" alt="Profile Photo" title="Profile Photo" style="border-radius: 50%;margin:20px">
+<img src="./images/profile_image.png" alt="Profile Photo" title="Profile Photo" style="border-radius: 50%;margin:20px;max-width:200px;width:50%;height:auto;object-fit:cover;">
 <div>
 <h2>Abdul Rahman <br> <span style="color:222528;font-size:20px">MERN Developer</span></h2>
 
